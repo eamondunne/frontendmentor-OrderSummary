@@ -38,8 +38,6 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 
 ## Author
-
-<!-- TODO -->
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [Eamon Dunne](https://github.com/eamondunne)
+- Frontend Mentor - [@eamondunne](https://www.frontendmentor.io/profile/eamondunne)
 
