@@ -20,7 +20,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-<!-- TODO -->
 - See hover states for interactive elements
 
 ### Screenshot
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/eamondunne/frontendmentor-OrderSummary)
+- Live Site URL: [GitHub Pages](https://eamondunne.github.io/frontendmentor-OrderSummary/)
 
 ## My process
 
