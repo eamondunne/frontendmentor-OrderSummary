@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-OrderSummary/static/css/main.51fbd694.css",
+    "main.js": "/frontendmentor-OrderSummary/static/js/main.8f0378c4.js",
+    "index.html": "/frontendmentor-OrderSummary/index.html",
+    "static/media/pattern-background-desktop.svg": "/frontendmentor-OrderSummary/static/media/pattern-background-desktop.5a0ab6898fc956557d00.svg",
+    "main.51fbd694.css.map": "/frontendmentor-OrderSummary/static/css/main.51fbd694.css.map",
+    "main.8f0378c4.js.map": "/frontendmentor-OrderSummary/static/js/main.8f0378c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51fbd694.css",
+    "static/js/main.8f0378c4.js"
+  ]
+}
