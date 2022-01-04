@@ -9,7 +9,7 @@ class Button extends React.Component {
   render() {
     return (
       <button
-        className={`${this.props.styleName}`}
+        className={`orderButton ${this.props.styleName}`}
         onClick={() => console.log("Button!")}
       >
         {this.props.text}

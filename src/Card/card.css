@@ -63,3 +63,18 @@
   font-size: 0.9 rem;
   color: hsl(224, 23%, 55%);
 }
+
+.plan-change-button {
+  padding: 0px;
+  background: none;
+  color: hsl(224, 23%, 55%);
+  border: none;
+  cursor: pointer;
+  outline: inherit;
+  font-weight: 500;
+}
+
+.plan-change-button:active {
+  color: hsl(224, 23%, 35%);
+  font-weight: 700;
+}

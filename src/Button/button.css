@@ -1,10 +1,11 @@
-button {
+.orderButton {
   width: 100%;
   padding: 15px;
   border: none;
   margin: 8px 0px;
   border-radius: 10px;
   font-weight: 700;
+  cursor: pointer;
 }
 
 .primary {
@@ -12,8 +13,20 @@ button {
   color: white;
   box-shadow: 0px 5px 10px hsl(225, 15%, 74%);
 }
+.primary:active {
+  background-color: hsl(245, 75%, 62%);
+}
 
 .secondary {
   background-color: white;
   color: hsl(224, 23%, 55%);
+}
+
+.secondary:active {
+  color: hsl(224, 23%, 35%);
+}
+
+colors {
+  color: hsl(225, 100%, 94%) hsl(245, 75%, 52%) hsl(225, 100%, 98%)
+    hsl(224, 23%, 55%) hsl(223, 47%, 23%);
 }

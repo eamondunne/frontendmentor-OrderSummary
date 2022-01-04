@@ -44,7 +44,7 @@ class CardPlanSelector extends React.Component {
           <h2>Annual Plan</h2>
           <p className="pricing">$59.99/year</p>
         </div>
-        <a href="">Change</a>
+        <button className="plan-change-button">Change</button>
       </div>
     );
   }
