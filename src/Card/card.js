@@ -6,7 +6,10 @@ class CardHero extends React.Component {
   render() {
     return (
       <div className="card-hero">
-        <img src="/images/illustration-hero.svg" alt="illustration-hero"></img>
+        <img
+          src={process.env.PUBLIC_URL + "/images/illustration-hero.svg"}
+          alt="illustration-hero"
+        ></img>
       </div>
     );
   }
@@ -33,7 +36,10 @@ class CardPlanSelector extends React.Component {
   render() {
     return (
       <div className="card-plan-selector">
-        <img src="/images/icon-music.svg" alt="music icon"></img>
+        <img
+          src={process.env.PUBLIC_URL + "/images/icon-music.svg"}
+          alt="music icon"
+        ></img>
         <div className="plan-details">
           <h2>Annual Plan</h2>
           <p className="pricing">$59.99/year</p>
